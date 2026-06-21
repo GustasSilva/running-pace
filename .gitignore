@@ -1,0 +1,15 @@
+# Classes compiladas / saída de build
+bin/
+*.class
+
+# Artefatos de build Java
+*.jar.original
+hs_err_pid*.log
+
+# IDE
+.idea/
+*.iml
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
