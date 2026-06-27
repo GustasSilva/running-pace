@@ -7,7 +7,7 @@ um piloto (nome, equipe e número do carro), os dados são salvos em um banco
 O app abre com uma tela de **splash** (logo + trilha sonora) e, ao pressionar
 qualquer tecla, segue para o cadastro.
 
-> Projeto acadêmico (APS) desenvolvido em 2024/2º semestre.
+> Projeto acadêmico.
 
 ---
 
